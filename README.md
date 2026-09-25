@@ -107,7 +107,7 @@ sequenceDiagram
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/kira14102005/gethory.git
+git clone https://github.com/ratneshyadav1812/gethory.git
 cd gethory
 ```
 
