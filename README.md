@@ -1,6 +1,6 @@
-# Gethory
+# LIvelink
 
-[](https://www.google.com/search?q=https://github.com/kira14102005/gethory)
+[](https://www.google.com/search?q=https://github.com/ratnesh1812/livelink)
 [](https://www.google.com/search?q=LICENSE)
 [](https://hub.docker.com/r/rrai21/mynextappimage)
 [](https://www.google.com/search?q=CONTRIBUTING.md)
@@ -166,8 +166,8 @@ Nginx
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/kira14102005/gethory.git
-cd gethory
+git clone https://github.com/ratnesh1812/livelink.git
+cd livelink
 ```
 
 ### 2\. Set Up Environment Variables
